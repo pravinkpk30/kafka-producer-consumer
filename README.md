@@ -1,5 +1,5 @@
 # kafka-producer-consumer
-Sample messaging system using spring boot framework and spring kafka
+![image](https://github.com/user-attachments/assets/34fcb804-28c9-45f2-9165-eaaf4610f651)
 
 # Postman sample
 ![image](https://github.com/user-attachments/assets/dd59ac17-e5b8-4918-82ad-c9ade114e1dd)
